@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "markdown_generator/publications.tsv"
+      path: "leonardo-iheme.github.io/markdown_generator/publications.tsv"
       type: publications
     values:
       layout: single
