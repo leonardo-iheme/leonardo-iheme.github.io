@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Leonardo O. Iheme"
   avatar           : "profile.png"
-  bio              : "Research Engineerat"
+  bio              : "Research Engineer"
   location         : "Izmir"
   employer         : "AdresGezgini.Inc"
   pubmed           : 
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "leonardo-iheme.github.io/markdown_generator/publications.tsv"
+      path: "markdown_generator/publications.tsv"
       type: publications
     values:
       layout: single
